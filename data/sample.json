@@ -1,0 +1,14 @@
+{
+  "Product": {
+    "0": "Desktop Computer",
+    "1": "Tablet",
+    "2": "iPhone",
+    "3": "Laptop"
+  },
+  "Price": {
+    "0": 900,
+    "1": 360,
+    "2": 700,
+    "3": 1460
+  }
+}
